@@ -1,1 +1,0 @@
-# CCNA-router-on-a-stick
