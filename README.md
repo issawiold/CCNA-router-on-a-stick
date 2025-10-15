@@ -10,7 +10,7 @@ pc1 vlan 20 --> ip address=192.168.0.6, subnet mask=255.255.255.252, default gat
 
 switch access layer
 
->en
+\>en
 
 #conf t
 
@@ -46,7 +46,7 @@ if#sw mod trunk
 
 Router 
 
->en
+\>en
 
 #conf t
 
